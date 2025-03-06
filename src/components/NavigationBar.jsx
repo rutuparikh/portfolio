@@ -10,7 +10,7 @@ const NavBar = () => {
           >
             {/* <!-- Logo --> */}
             <div>
-                        <div className="md:block text-white text-2xl font-bold ml-2"><a href="/index.html">rutu.parikh()</a></div>
+                        <div className="md:block text-white text-2xl font-bold ml-2"><a href="/index.html">rutu.parikh();</a></div>
             </div>
             
             <div className="md:ml-auto">
@@ -31,7 +31,7 @@ const NavBar = () => {
                   >Experience</a
                 > */}
                 <a
-                  href="https://drive.google.com/file/d/1Dr_51U69XCPyureDbdQOr8zlDvbbVqw4/view?usp=sharing"
+                  href="https://drive.google.com/drive/folders/1mxQy94L6VDAJF70drJfyFLX8AzxfbKo8?usp=sharing"
                   target="_blank"
                   className="text-white hover:bg-gray-900 hover:text-white rounded-md px-3 py-2"
                   >Resume</a

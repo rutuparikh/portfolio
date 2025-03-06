@@ -40,7 +40,7 @@ const Card = ({ bgcolor = 'bg-white', title = 'Hello', type = 'greetImage' }) =>
 
                     <div className="flex place-content-center py-5">
                         <a
-                            href="https://drive.google.com/file/d/1Dr_51U69XCPyureDbdQOr8zlDvbbVqw4/view?usp=sharing"
+                            href="https://drive.google.com/drive/folders/1mxQy94L6VDAJF70drJfyFLX8AzxfbKo8?usp=sharing"
                             target="_blank"
                             className="inline-block bg-theme text-white rounded-lg px-10 py-2">
                             Resume
